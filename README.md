@@ -21,7 +21,7 @@ Based on on the VirtualBox OSE 5.2.2
 What Antidetect can spoof or fake?
 -
 # Hardware:
-1. Spoof Device ID, Vendor Id/ Fake Device ID, Vendor Id <font color="green"> Finished</font>
+1. Spoof Device ID, Vendor Id/ Fake Device ID, Vendor Id
 
 2. Spoof BIOS manufacturer, version, date etc./ Fake BIOS manufacturer, version, date etc.
 
